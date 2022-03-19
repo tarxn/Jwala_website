@@ -1,1 +1,4 @@
-you have to write both location and change made where the code change.
+changed the cover image of aqua: in SportData.js
+added the weightlifting card:
+1.created home_Object_weight: in SportData.js
+2.added webpage section: in Sports.js

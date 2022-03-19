@@ -11,6 +11,7 @@ import {
   home_Object_tennis,
   home_Object_TT,
   home_Object_volley,
+  home_Object_weight,
 } from "./SportsData";
 import SportsSlider from "./SportsSlider";
 import { SportsSliderData } from "./SportsSliderData";
@@ -29,6 +30,7 @@ function Sports() {
       <WebpageSection {...home_Object_TT} />
       <WebpageSection {...home_Object_tennis} />
       <WebpageSection {...home_Object_volley} />
+      <WebpageSection {...home_Object_weight} />
     </>
   );
 }

@@ -5,10 +5,10 @@ export const home_Object_aqua = {
   topLine: "TITLE",
   headLine: "AQUATICS",
   description:
-    "Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde ab labore, nihil consequatur vitae odit iste id consequuntur quod dignissimos recusandae cum, et distinctio velit, saepe amet corrupti molestiae laborum",
+    "_Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde ab labore, nihil consequatur vitae odit iste id consequuntur quod dignissimos recusandae cum, et distinctio velit, saepe amet corrupti molestiae laborum",
   buttonLabel: "Learn more",
   imgToggle: "right",
-  img: "images/img-21.jpg",
+  img: "images/swimming.gif",
   alt: "alt-desc",
 };
 
@@ -136,5 +136,19 @@ export const home_Object_volley = {
   buttonLabel: "Learn more",
   imgToggle: "left",
   img: "images/img-13.jpg",
+  alt: "alt-desc",
+};
+
+export const home_Object_weight = {
+  lightBg: false,
+  lightText: true,
+  lightTextDesc: true,
+  topLine: "TITLE",
+  headLine: "WEIGHTLIFTING",
+  description:
+    "Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde ab labore, nihil consequatur vitae odit iste id consequuntur quod dignissimos recusandae cum, et distinctio velit, saepe amet corrupti molestiae laborum",
+  buttonLabel: "Learn more",
+  imgToggle: "right",
+  img: "images/weightlifting_him.gif",
   alt: "alt-desc",
 };
