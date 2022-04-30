@@ -5,7 +5,7 @@ export const home_Object_aqua = {
   topLine: "TITLE",
   headLine: "AQUATICS",
   description:
-    "_Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde ab labore, nihil consequatur vitae odit iste id consequuntur quod dignissimos recusandae cum, et distinctio velit, saepe amet corrupti molestiae laborum",
+    "Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde ab labore, nihil consequatur vitae odit iste id consequuntur quod dignissimos recusandae cum, et distinctio velit, saepe amet corrupti molestiae laborum",
   buttonLabel: "Learn more",
   imgToggle: "right",
   img: "images/swimming.gif",
